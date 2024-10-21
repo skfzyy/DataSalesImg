@@ -1,0 +1,15 @@
+build*/
+.vscode/
+.idea/
+*/.idea/
+*/.vscode/
+.cache/
+SDK/
+.DS_Store
+*/.DS_Store
+DebugBuild/
+ReleaseBuild/
+vsBuild/
+.vs/
+SDK*
+cmake-build-*/
